@@ -1,36 +1,6 @@
 {
-    "top-level-test": {
-        "description": "Top-level Test",
-        "prefix": "test-tl",
-        "body": [
-            "<?php",
-            "",
-            "namespace Chevere\\Tests;",
-            "",
-            "use PHPUnit\\Framework\\TestCase;",
-            "",
-            "final class $TM_FILENAME_BASE extends TestCase",
-            "{",
-            "\t$0",
-            "}"
-        ]
-    },
-    "top-level-test-resource": {
-        "description": "Top-level Test resource",
-        "prefix": "test-resource-tl",
-        "body": [
-            "<?php",
-            "",
-            "namespace Chevere\\Tests;",
-            "",
-            "final class $TM_FILENAME_BASE",
-            "{",
-            "\t$0",
-            "}"
-        ]
-    },
     "test": {
-        "description": "Test",
+        "description": "Chevere test",
         "prefix": "test",
         "body": [
             "<?php",
@@ -46,7 +16,7 @@
         ]
     },
     "test-method": {
-        "description": "Test method",
+        "description": "Chevere test method",
         "prefix": "test-method",
         "body": [
             "public function test${1:Name}(): void",
@@ -55,8 +25,8 @@
             "}"
         ]
     },
-    "test-resource": {
-        "description": "Test resource",
+    "testResource": {
+        "description": "Chevere test resource",
         "prefix": "test-resource",
         "body": [
             "<?php",

@@ -4,4 +4,11 @@
 /.scannerwork
 /vendor
 /composer.lock
+/bin
 /build
+/micro
+/app/compiled
+/locks
+/tests/writable/**
+!tests/writable/.gitkeep
+/xrdebug.phar
