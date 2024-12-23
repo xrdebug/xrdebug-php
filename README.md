@@ -18,7 +18,6 @@ Use this project if you want to bundle xrDebug in your based PHP project, just l
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=xrdebug_xrdebug-php&metric=security_rating)](https://sonarcloud.io/dashboard?id=xrdebug_xrdebug-php)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=xrdebug_xrdebug-php&metric=coverage)](https://sonarcloud.io/dashboard?id=xrdebug_xrdebug-php)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=xrdebug_xrdebug-php&metric=sqale_index)](https://sonarcloud.io/dashboard?id=xrdebug_xrdebug-php)
-[![CodeFactor](https://www.codefactor.io/repository/github/xrdebug/xrdebug-php/badge)](https://www.codefactor.io/repository/github/xrdebug/xrdebug-php)
 
 ## Installation
 
